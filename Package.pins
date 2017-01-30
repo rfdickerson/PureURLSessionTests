@@ -1,0 +1,12 @@
+{
+  "autoPin": true,
+  "pins": [
+    {
+      "package": "PureURLSession",
+      "reason": null,
+      "repositoryURL": "https://github.com/rfdickerson/PureURLSession",
+      "version": "0.0.1"
+    }
+  ],
+  "version": 1
+}
